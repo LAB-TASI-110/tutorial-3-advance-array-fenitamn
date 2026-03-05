@@ -3,7 +3,7 @@
 int main() {
     int n;
     int nilai;
-    long long total_nilai = 0; // Menggunakan long long untuk menghindari overflow jika n dan nilai besar
+    long long total_nilai = 0; // Menggunakan long long untuk menghindari overflow jika n dan nilai besar.
     double rata_rata;
 
     // Membaca jumlah nilai (n)

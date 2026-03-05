@@ -1,4 +1,4 @@
-#include <stdio.h> // Untuk fungsi input/output seperti scanf dan printf
+#include <stdio.h> // Untuk fungsi input/output seperti scanf dan printf.
 #include <limits.h> // Untuk INT_MIN dan INT_MAX
 
 int main() {
