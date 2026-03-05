@@ -54,15 +54,15 @@ Masih menggunakan contoh masukan yang sama:
 90
 
 ```
-
+ .
 Contoh luaran yang diharapkan:
 
-```bash
-360
-72.00
-3
+60
+75
+80
+55
+90
 
-```
 
 Penjelasan: rata-rata adalah `72.00`, nilai yang `>= 72` adalah `75`, `80`, dan `90` (total 3 mahasiswa).
 
